@@ -1,5 +1,5 @@
 import Link from "next/link"
-import styles from "./header.module.css"
+import styles from "../styles/header.module.css"
 function Header() {
     return (
         <div className="m-4">

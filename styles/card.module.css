@@ -1,0 +1,14 @@
+
+.backimage {
+    
+    background-image: url('./image.jpg');
+    height: 500px;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.para {
+    text-align: center;
+    padding-top: 250px;
+
+}
