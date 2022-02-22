@@ -5,6 +5,7 @@ import About from "./About"
 import Project from "./projects"
 import Card from "./card"
 import Blog from "./blog"
+import Contact from "./contact"
 
 function Home() {
     return(
@@ -19,6 +20,7 @@ function Home() {
             <Project />
             <Blog />
             <About />
+            <Contact />
             <Footer />
             
         </div>
