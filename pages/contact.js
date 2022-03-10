@@ -2,7 +2,7 @@ export default function Contact() {
     return(
         <div>
             <h3>
-                Send me your details. Let's connect
+                Send me your details. Let&apos;s connect
             </h3>
       <form action="/api/form" method="post">
       <label htmlFor="first">First Name</label>
